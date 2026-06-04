@@ -5,7 +5,7 @@
 
 
 ## Онлайн-отчет (CI/CD)
-> 🚀 **Allure-отчет на GitHub Pages:**  
+> **Allure-отчет на GitHub Pages:**  
 > [Смотреть результаты тестов](https://juefimova.github.io/Final-Project/)
 
 
