@@ -31,7 +31,7 @@
 
 ### 1. Установка
 ```bash
-git clone [https://github.com/juefimova/Final-Project.git](https://github.com/juefimova/Final-Project.git)
+git clone https://github.com/juefimova/Final-Project.git
 cd Final-Project
 npm ci
 npx playwright install --with-deps
