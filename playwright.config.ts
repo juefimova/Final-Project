@@ -13,7 +13,7 @@ export default defineConfig({
   ],
 
   use: {
-    baseURL: 'https://www.saucedemo.com',
+    baseURL: 'https://www.rossmann.pl/',
     screenshot: 'only-on-failure',
     video: 'retain-on-failure',
     trace: 'on-first-retry',
