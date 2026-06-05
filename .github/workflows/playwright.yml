@@ -48,7 +48,6 @@ jobs:
 
       - name: Run Playwright tests
         run: npx playwright test --project=${{ matrix.project }}
-        continue-on-error: true
 
 
       - name: Upload Allure Results
